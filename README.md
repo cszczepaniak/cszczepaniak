@@ -3,7 +3,7 @@
 I like to write and work on web apps. My emphasis is on modern React (TypeScript, hooks), and I have a passion for writing high-quality, concise, and clean code that is expressive and readable (i.e. don't _over_ emphasize "clean"ness and sexy one-liners if they obfuscate the developer's intent!). I love to use code-quality and life-quality tools like eslint, prettier, go fmt, etc. that can normalize source code styling and enforce best practices, particularly if they are integrated with CI/CD. I also believe that an extensive unit testing suite can go a long way to avoid breaking code as it gets refactored!
 
 - 🔭 I’m currently working on a fun React app to keep score for the card game [Oh Hell](https://www.pagat.com/exact/ohhell.html) (which has many other names...)
-- 👷‍♂️ My day job is to write and maintain embedded software controlling industrial and off-highway machinery, as well as model-based design tools
+- 👷‍♂️ I spend my work week building a first of its kind online platform for funeral arrangements at a company called [eFuneral](https://efuneral.com/)
 - ⚡ Fun fact: my last name is Polish and is pronounced suh-pan-ee-ak
 
 
