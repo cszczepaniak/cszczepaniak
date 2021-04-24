@@ -3,7 +3,7 @@
 I like to solve problems with code. My favorite languages are Go and TypeScript.
 
 - My latest curiosity is compilers, so I'm writing my own. Guided by [_Writing an Interpreter in Go_](https://interpreterbook.com/) and [_Writing a Compiler in Go_](https://compilerbook.com/).
-- I’m working on a fun React app (live at [oh-heck.com](oh-heck.com)!) to keep score for the card game [Oh Hell](https://www.pagat.com/exact/ohhell.html) (which has many other names...)
+- I’m working on a fun React app (live at [oh-heck.com](https:// oh-heck.com)!) to keep score for the card game [Oh Hell](https://www.pagat.com/exact/ohhell.html) (which has many other names...)
 - I spend my work week building a first-of-its-kind online platform for funeral arrangements at a company called [eFuneral](https://efuneral.com/)
 
 
